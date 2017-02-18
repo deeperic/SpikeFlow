@@ -17,8 +17,9 @@ To play around, follow these steps:
 
 7/ Test the model by running: python test_one_char.py {the name of your model} {the image to be recognised}
 
-Youtube: https://youtu.be/9N9OUruPZd4
 
 Blog: https://deeperic.wordpress.com/2017/02/18/chinese-ocr-tensorflow
+
+Youtube: https://youtu.be/9N9OUruPZd4
 
 GitHub: https://github.com/deeperic/SpikeFlow

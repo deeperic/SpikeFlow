@@ -13,7 +13,7 @@ To play around, follow these steps:
 
 5/ Run tf/train_model.py to train a model. The training will save a checkpoint on a regular interval.
 
-6/ In receipt, run the find_contour_character.py to generate the images which may contain Chinese characters. You will have a "bw" folder containing all images.
+6/ In receipt, run the find_contour_character.py to generate the images which may contain Chinese characters. You will have a "bw" folder containing all images. Run: python find_contour_character.py {image filename}
 
 7/ Test the model by running: python test_one_char.py {the name of your model} {the image to be recognised}
 

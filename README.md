@@ -9,7 +9,7 @@ To play around, follow these steps:
 
 3/ Run tf/convert-to-tfrecords.py to convert the images and labels in Tensorflow format.
 
-4/ Modify the helper.py for the characters you want to recognise.
+4/ Modify the tf/helper.py for the characters you want to recognise.
 
 5/ Run tf/train_model.py to train a model. The training will save a checkpoint on a regular interval.
 

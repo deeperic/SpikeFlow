@@ -1,6 +1,8 @@
 # SpikeFlow
 A Chinese OCR with TensorFlow
 
+*** Warning: The source codes in this repository may not work well with the latest version of Tensorflow. ***
+
 To play around, follow these steps:
 
 1/ Use Ocropy to generate Chinese character images. linegen is the tool used. You will need a font file. Put the images under folder training-character.gh.
